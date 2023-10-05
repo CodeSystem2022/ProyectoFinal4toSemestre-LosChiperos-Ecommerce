@@ -18,4 +18,4 @@ COPY src/ ./src/
 EXPOSE 3055
 
 # Comando para iniciar la aplicación
-CMD [ "npm", "run", "start" ]
+CMD [ "npm", "run", "dev" ]
